@@ -1,5 +1,3 @@
-# cadastroFuncionario
-
-<h1>Projeto Python OO</h1>
+<Projeto Python OO
 
 <Status do projeto: Finalizado.
