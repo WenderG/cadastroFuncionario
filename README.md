@@ -1,3 +1,3 @@
-<Projeto Python OO
+<FuncionarioPython
 
 <Status do projeto: Finalizado.
